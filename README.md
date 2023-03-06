@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bose-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="bose-sayan" /> </p>
 
-- 🔭 I’m currently working on [Vinland Query Saga](https://github.com/bose-sayan/vinland-query-saga)
-
-- 🌱 I’m currently learning **C#, Unity**
-
 - 📫 How to reach me **sayan.bose.lmg.2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
