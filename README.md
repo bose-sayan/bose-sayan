@@ -1,2 +1,2 @@
-[![Badge](https://cp-logo.vercel.app/codeforces/sanzen_sekai)]
-(https://codeforces.com/profile/sanzen_sekai)
+[![Badge](https://cp-logo.vercel.app/codechef/gennady.korotkevich)]
+(https://www.codechef.com/users/gennady.korotkevich)
