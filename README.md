@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CSES](https://github.com/bose-sayan/CSES)
 
-- 🌱 I’m currently learning **C#, Unity**
+[//]: <> (- 🌱 I’m currently learning **C#, Unity**) 
 
 - 👨‍💻 My profiles [https://linktr.ee/sayan_bose](https://linktr.ee/sayan_bose)
 
