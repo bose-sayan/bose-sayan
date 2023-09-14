@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan</h1>
-<h3 align="center">An Algorithm Lover</h3>
+<h3 align="center">Algorithms Enthusiast | Explorer 🚀. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bose-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="bose-sayan" /> </p>
 
