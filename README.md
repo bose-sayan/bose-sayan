@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bose-sayan" alt="bose-sayan" /></a> </p>
 
-- 🔭 I’m currently working on [Peer-Py](https://github.com/bose-sayan/peer-py)
+- 🔭 I’m currently working on [Chat++](https://github.com/bose-sayan/chatpp)
 
 - 🌱 I’m currently learning **Go**
 
